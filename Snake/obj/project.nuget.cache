@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "WSEdWZYddcq8WBFcOQLKMizTziI8OLUK1XIKgcWx+y0e4ppzm2oRbWgEfBOtNs7lsKLD2k3EVqZOwWEgWqAodQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Jenis\\source\\repos\\Snake\\Snake\\Snake.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Jenis\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.28\\microsoft.windowsdesktop.app.ref.6.0.28.nupkg.sha512",
+    "C:\\Users\\Jenis\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.28\\microsoft.netcore.app.ref.6.0.28.nupkg.sha512",
+    "C:\\Users\\Jenis\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.28\\microsoft.aspnetcore.app.ref.6.0.28.nupkg.sha512",
+    "C:\\Users\\Jenis\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.28\\microsoft.netcore.app.host.win-x64.6.0.28.nupkg.sha512"
+  ],
+  "logs": []
+}
