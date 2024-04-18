@@ -22,3 +22,9 @@ This project provides a basic Snake game implemented in C# using object-oriented
 - Avoid collisions with the walls and the snake's own body.
 - The game ends when the snake collides with a wall or itself.
 - Try to achieve the highest score possible!
+
+
+![Screenshot (200)](https://github.com/Jenishkumarbhalala/SnakeGame/assets/142840309/e4654e41-f153-4baf-88cf-7277bd92ea73)
+![Screenshot (199)](https://github.com/Jenishkumarbhalala/SnakeGame/assets/142840309/79295ff3-cbde-4147-8b68-5cb400fadfc4)
+
+- 
