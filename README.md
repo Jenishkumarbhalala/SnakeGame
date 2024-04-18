@@ -6,6 +6,14 @@ This is a simple implementation of the classic Snake game in C#.
 
 This project provides a basic Snake game implemented in C# using object-oriented programming principles. The game allows players to control a snake on a grid-based board and eat food to grow while avoiding collisions with walls and the snake's own body.
 
+## Installation
+
+1. Ensure you have the .NET SDK installed on your system.
+2. Clone the repository to your local machine using Git.
+3. Navigate to the project directory.
+4. Compile the project using the following command:
+5. Run the compiled application.
+
 ## Features
 
 - Grid-based gameplay.
